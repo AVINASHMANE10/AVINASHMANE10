@@ -57,6 +57,7 @@ I specialize in crafting robust, scalable, and efficient software solutions with
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your_leetcode/)
 
 </div>
+![OGC](https://github.com/AVINASHMANE10/AVINASHMANE10/assets/98111356/fb90428e-12aa-4f2d-8dc1-e1a5337594a8)
 
 <div align="center">
   
