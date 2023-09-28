@@ -31,6 +31,11 @@ I specialize in crafting robust, scalable, and efficient software solutions with
 - **SQL Expertise:** Harnessing the full potential of data to create data-driven applications.
 - **Continuous Learning:** Staying current with emerging technologies and industry trends to adapt and innovate in the evolving field of software development.
 
+ <p align="center">
+  <img width="400" src="https://www.bing.com/th/id/OGC.03a4a5f034bf0bafa661fd8a8aabedc8?pid=1.7&rurl=https%3a%2f%2fmedia4.giphy.com%2fmedia%2fqgQUggAC3Pfv687qPC%2fgiphy.gif&ehk=8n99EYz55CMT7Ceoj1W7rwPlAKpXagjyDo4K30Lm%2faM%3d" alt="coding">
+</p>
+
+
 ## 🌱 What Sets Me Apart
 
 - **Problem-Solving Abilities:** Tackling complex challenges with meticulous attention to detail.
@@ -57,11 +62,7 @@ I specialize in crafting robust, scalable, and efficient software solutions with
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your_leetcode/)
 
 </div>
-![OGC](https://github.com/AVINASHMANE10/AVINASHMANE10/assets/98111356/fb90428e-12aa-4f2d-8dc1-e1a5337594a8)
-
 <div align="center">
-  
-![Coding](https://raw.githubusercontent.com/AVINASHMANE10/AVINASHMANE10/main/coding.gif)
 
 </div>
 
