@@ -44,7 +44,11 @@ I specialize in crafting robust, scalable, and efficient software solutions with
 
 ## 🎨 Visuals
 
-![Avinash Mane's Portrait](https://drive.google.com/uc?export=view&id=1s219Ul_DtbNiTOYmJEHkE4p9wa7nNyOP)
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1s219Ul_DtbNiTOYmJEHkE4p9wa7nNyOP" width="500" alt="Avinash Mane's Portrait">
+</p>
+
+
 
 
 ---
