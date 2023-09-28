@@ -35,7 +35,10 @@ I specialize in crafting robust, scalable, and efficient software solutions with
   <img width="400" src="https://www.bing.com/th/id/OGC.03a4a5f034bf0bafa661fd8a8aabedc8?pid=1.7&rurl=https%3a%2f%2fmedia4.giphy.com%2fmedia%2fqgQUggAC3Pfv687qPC%2fgiphy.gif&ehk=8n99EYz55CMT7Ceoj1W7rwPlAKpXagjyDo4K30Lm%2faM%3d" alt="coding">
 </p>
 
+## 📊 GitHub Stats
 
+[![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AVINASHMANE10&show_icons=true&theme=radical)](https://github.com/AVINASHMANE10/github-readme-stats)
+ 
 ## 🌱 What Sets Me Apart
 
 - **Problem-Solving Abilities:** Tackling complex challenges with meticulous attention to detail.
