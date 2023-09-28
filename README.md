@@ -38,7 +38,7 @@ I specialize in crafting robust, scalable, and efficient software solutions with
 - **Technologies Used:** Java, SQL, HTML, CSS, JavaScript. -->
 
 ## 📫 Let's Connect!
-- [LinkedIn](www.linkedin.com/in/avinash-mane-developer10)
+- [LinkedIn](https://www.linkedin.com/in/avinash-mane-developer10)
 <!-- - [Twitter](https://twitter.com/your-twitter) -->
 - [Email](mailto:maneavinash818@gmail.com)
 
