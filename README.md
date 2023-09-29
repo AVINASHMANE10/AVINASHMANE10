@@ -1,8 +1,5 @@
+![logo](https://github.com/AVINASHMANE10/AVINASHMANE10/blob/main/1.png)
 # 🌟 Welcome, I'm Avinash Milind Mane! 🌟
-
-<div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1s219Ul_DtbNiTOYmJEHkE4p9wa7nNyOP" width="200" alt="Avinash Mane's Portrait" style="border-radius: 50%; box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.5);">
-</div>
 
 Greetings! I'm an ambitious software enthusiast, currently mastering the world of computer applications. My mission is to make a significant impact in the software development industry as a Full Stack Java Developer.
 
@@ -20,6 +17,10 @@ Greetings! I'm an ambitious software enthusiast, currently mastering the world o
 
 ## 🚀 About Me
 
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1s219Ul_DtbNiTOYmJEHkE4p9wa7nNyOP" width="200" alt="Avinash Mane's Portrait" style="border-radius: 50%; box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.5);">
+</div>
+
 I’m pursuing my Master's in Computer Applications (MCA) with a goal to blend my passion and skills in Java, SQL, and web technologies to contribute to innovative projects. I believe in the transformative power of technology and am committed to being a part of this global transformation.
 
 I specialize in crafting robust, scalable, and efficient software solutions with clean and maintainable code that exceeds industry standards. My proficiency in SQL and data-driven approaches ensures the delivery of highly functional applications.
@@ -35,6 +36,10 @@ I specialize in crafting robust, scalable, and efficient software solutions with
   <img width="400" src="https://www.bing.com/th/id/OGC.03a4a5f034bf0bafa661fd8a8aabedc8?pid=1.7&rurl=https%3a%2f%2fmedia4.giphy.com%2fmedia%2fqgQUggAC3Pfv687qPC%2fgiphy.gif&ehk=8n99EYz55CMT7Ceoj1W7rwPlAKpXagjyDo4K30Lm%2faM%3d" alt="coding">
 </p>
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AVINASHMANE10&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📊 GitHub Stats
 
 [![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AVINASHMANE10&show_icons=true&theme=radical)](https://github.com/AVINASHMANE10/github-readme-stats)
@@ -45,27 +50,14 @@ I specialize in crafting robust, scalable, and efficient software solutions with
 - **Effective Communication:** Thriving in collaborative environments and diverse teams.
 - **Innovation & Talent:** Eager to innovate and leave a lasting impact on the industry.
 
-<!-- ## 🌟 Projects
-
-### [Your Project Name](Your_Project_Link)
-- **Description:** Brief description of the project.
-- **Technologies Used:** Java, SQL, HTML, CSS, JavaScript, React, Spring Boot.
-
-### [Your Project Name](Your_Project_Link)
-- **Description:** Brief description of the project.
-- **Technologies Used:** Java, SQL, HTML, CSS, JavaScript, React, Spring Boot. -->
-
 ## 📫 Let's Connect!
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-mane-developer10)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/AVINASHMANE10)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your_hackerrank)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your_leetcode/)
-
-</div>
-<div align="center">
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avinashmane982/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2300EA64.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/maneavinash818)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/AvinashMMane10/)
 
 </div>
 
