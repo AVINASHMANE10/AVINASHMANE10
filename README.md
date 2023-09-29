@@ -50,6 +50,8 @@ I specialize in crafting robust, scalable, and efficient software solutions with
 - **Effective Communication:** Thriving in collaborative environments and diverse teams.
 - **Innovation & Talent:** Eager to innovate and leave a lasting impact on the industry.
 
+    <img align="right" width="400" src="https://media3.giphy.com/media/USV0ym3bVWQJJmNu3N/200w.webp?cid=ecf05e47gwmik8zu7bsyleehqfdbd95j7s58rb67aihdwj3v&ep=v1_gifs_search&rid=200w.webp&ct=g" alt="coding">
+
 ## 📫 Let's Connect!
 <div align="center">
   
