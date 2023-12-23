@@ -42,7 +42,9 @@ I specialize in crafting robust, scalable, and efficient software solutions with
 
 ## 📊 GitHub Stats
 
-[![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AVINASHMANE10&show_icons=true&theme=radical)](https://github.com/AVINASHMANE10/github-readme-stats)
+[![](https://raw.githubusercontent.com/AVINASHMANE10/github-profile-summary-cards-example/master/profile-summary-card-output/swift/0-profile-details.svg)](https://github.com/AVINASHMANE10/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/AVINASHMANE10/github-profile-summary-cards-example/master/profile-summary-card-output/swift/1-repos-per-language.svg)](https://github.com/AVINASHMANE10/github-profile-summary-cards) [![](https://raw.githubusercontent.com/AVINASHMANE10/github-profile-summary-cards-example/master/profile-summary-card-output/swift/2-most-commit-language.svg)](https://github.com/AVINASHMANE10/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/AVINASHMANE10/github-profile-summary-cards-example/master/profile-summary-card-output/swift/3-stats.svg)](https://github.com/AVINASHMANE10/github-profile-summary-cards) [![](https://raw.githubusercontent.com/AVINASHMANE10/github-profile-summary-cards-example/master/profile-summary-card-output/swift/4-productive-time.svg)](https://github.com/AVINASHMANE10/github-profile-summary-cards)
  
 ## 🌱 What Sets Me Apart
 
